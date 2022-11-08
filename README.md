@@ -1,4 +1,8 @@
 ### Hola, mi nombre es Kevin, Fullstack Developer 👋
+
+<h4>Me considero una persona responsable, de rápido aprendizaje, atenta, dispuesta a escuchar y aprender de los demás.
+Me adentré al mundo de la tecnología, ya que desde una temprana edad, siempre me a gustado ya que vos mismo podes resolver problemas gracias a tus conocimientos y, por lo tanto, ayudar a otros con dichos conocimientos.  </h4>
+
 ```javascript
 const kevin = {
   tecnologias: [Javascript, HTML, CSS, React, Redux, Node.js, Sequelize],
